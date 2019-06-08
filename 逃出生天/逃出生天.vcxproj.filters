@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Framework\AnimationSprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Games.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menuGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\ResourcesPool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\Sprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\SpritesManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPClient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\TextSprite.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\TextSpriteManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Framework\XAudio2SoundPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Framework\AnimationSprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Games.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Helper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="menuGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgDefine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\ResourcesPool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\Sprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\SpritesManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TCPClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\TextSprite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\TextSpriteManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Framework\XAudio2SoundPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{90d77f01-4ade-4a7c-aa55-4d64281bd948}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{723cdaf4-fa3a-436d-b24c-f06503011e40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
